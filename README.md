@@ -14,7 +14,7 @@
  
 ### 文件说明<br>
  * pre_test.ipynb 初赛code
- * final_test.py 复赛code
+ * final_test.ipynb 复赛code
  * else.py 比赛期间尝试的其他方法
  * final.csv 提交结果
  
